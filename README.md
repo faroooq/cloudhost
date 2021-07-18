@@ -1,6 +1,6 @@
 # cloudhost
 
-https://cloudhost.web.app
+https://cloudhostapp.web.app/
 
 # BUNDLING THE PROJECT WITH PARCEL.
 
